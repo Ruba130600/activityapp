@@ -1,1 +1,1 @@
-# activityapp
+# activity-app
